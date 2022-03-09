@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-image: url(../img/wave.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: bottom; */
+    /* font-family: 'Courier New', Courier, monospace; */
+    /* margin-top: 10%; */
+    z-index: -1;
+}
+
+.main-div{
+    padding: 20% 0;
+    color: #fff;
+}

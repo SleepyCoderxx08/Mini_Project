@@ -1,0 +1,19 @@
+h1 {
+    size: 3.5rem;
+    font-family: cursive;
+    margin: 3rem auto;
+    color: white;
+}
+body{
+    text-align: center;
+    background-image: url(../img/wave.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: bottom; */
+    /* font-family: 'Courier New', Courier, monospace; */
+    /* margin-top: 10%; */
+    z-index: -1;
+}
+ .wrapper {
+   box-sizing: border-box;
+ }
